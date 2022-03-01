@@ -10,6 +10,7 @@ console.log (nombre_estudiantes);
 nombre_estudiantes = "mariana, martina";
 var edad =prompt ("ingrese la edad: ")
 console.log("el grado es: "+ edad);
+console.log ("el estudiante" + nombre + "del grado" + grado + "tiene" + edad + "años");
 
 
 
