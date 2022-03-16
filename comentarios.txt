@@ -1,0 +1,6 @@
+Taller 1: Nota 4.8
+    * lineas 9, 12 sobran
+
+Taller 2: Nota deben Sustentar 
+    * linea 29, operacion incorrecta.
+    * linea 32, debe pedirse el diametro, no el radio
