@@ -47,3 +47,4 @@ diametrocir =prompt("por favor ingrese el diametro de el circulo");
 //realizar operacion 
 circunferencia = Math.PI * diametrocir
 console.log("la circunferencia de el circulo es de " + circunferencia+ "circunferencia")
+
