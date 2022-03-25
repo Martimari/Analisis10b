@@ -26,11 +26,12 @@ console.log("Solucion del punto #3");
 
 var diametro = prompt ("por favor ingrese la medida del diametro para poder hallar el area del circulo");
 var areacir;
-areacir = diametro*Math.PI;
-console.log ("el area del circulo es: "+ areacir);
-var radio;
-radio = parseInt(prompt("por favor ingresar el radio") );
-console.log ("el area del circulo es: ", Math.PI * radio * radio);
+areacir = Math.PI* diametro**2;
+console.log("el area del circulo es: "+areacir);
+var radio = prompt("por favor ingrese la medida del radio para hallar el volumen de la esfera");
+var volumen;
+volumen = 4/3*Math.PI* diametro;
+console.log("el volumen de la esfera es: "+volumen);
 
 
 console.log("Solucion del punto #4");
