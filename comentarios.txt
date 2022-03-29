@@ -7,5 +7,5 @@ Taller 2: Nota 4.3
     * linea 29, operacion incorrecta.
     * linea 32, debe pedirse el diametro, no el radio
 
-Taller 3: Nota: Segundo taller en 5, primer taller queda con la misma nota
+Taller 3: Nota: Segundo taller en 5, primer taller 5
     * punto 3 y 4 tienen variables indefinidas
