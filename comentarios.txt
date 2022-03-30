@@ -9,3 +9,6 @@ Taller 2: Nota 4.3
 
 Taller 3: Nota: Segundo taller en 5, primer taller 5
     * punto 3 y 4 tienen variables indefinidas
+
+Arreglos (observaciones generales del documento): Nota 5
+    * .pop() no es necesario indicar que es lo que hay que borrar, ya que ese método SIEMPRE borra el ÚLTIMO elemento del arreglo. Lo mismo sucede con .shift()
