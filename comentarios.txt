@@ -19,4 +19,13 @@ Arreglos (observaciones generales del documento): Nota 5
 Enlace examen: https://acortar.link/5UUBF0
 
 Examen: Nota 5
-    * 
+
+Taller condicionales: Nota 4.5
+    * Punto 3, la edad debe ser mayor a 18 para poder entrar. Linea 16
+    * linea 35, numero < 0
+    * linea 38, debe ser estrictamente menor
+    * linea 47, debe tomar al 50 y 80, =
+    * linea 53, no necesita condicion
+    * linea 111, no necesita condicion
+    * Falta punto 12.
+ 
