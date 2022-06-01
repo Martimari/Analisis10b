@@ -18,7 +18,7 @@ Arreglos (observaciones generales del documento): Nota 5
 
 Enlace examen: https://acortar.link/5UUBF0
 
-Examen: Nota 5
+Examen condicional: Nota 5
 
 Taller condicionales: Nota 4.5
     * Punto 3, la edad debe ser mayor a 18 para poder entrar. Linea 16
@@ -28,4 +28,14 @@ Taller condicionales: Nota 4.5
     * linea 53, no necesita condicion
     * linea 111, no necesita condicion
     * Falta punto 12.
+
+Taller while: Nota 4.6
+    * punto 6, el limite del ciclo es la cantidad de estudiantes y ese valor es ingresado por el usuario
+    * linea 75, ¿?
+
+examen while: Nota 5
+    * punto 4, acu y repeticion hacen lo mismo. Uno de ellos sobra 
+    * linea 68, 73 y 77, falta el = para que la variable suma guarde el nuevo valor suma*=0.90
+    * linea 72, no existe el numero para esa condicion
+
  
