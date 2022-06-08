@@ -83,3 +83,5 @@ if(promedio>=3.5){
 }
 else console.log (estudiantes+ "perdio la asignatura")
 
+console.log("punto9");
+
