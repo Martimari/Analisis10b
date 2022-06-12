@@ -38,4 +38,5 @@ examen while: Nota 5
     * linea 68, 73 y 77, falta el = para que la variable suma guarde el nuevo valor suma*=0.90
     * linea 72, no existe el numero para esa condicion
 
- 
+ ciclo for: Nota 4
+    * punto 4, nummayor debió ser igual al primer elemento del arreglo. Y al final no imprime el resultado
