@@ -43,3 +43,17 @@ for(var i=0; i<10; i++){
 
 }
 
+console.log("punto 5")
+var arreglo
+var producto
+
+for(var i=1;  i<=5; i++){
+    producto=prompt("ingrese  los articulos que desea comprar ")
+    arreglo.push(precio)
+
+}
+var arregloprecio=[]
+for(var i=0; i<arreglo.length; i++){
+    var precio = parseInt(prompt("ingrese el precio de "+arreglo[i]))
+    arregloprecio.push(precio)
+}
