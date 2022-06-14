@@ -23,13 +23,23 @@ console.log(numtablain +"x" + i + "=" + numtablain*i )
 }
 
 console.log("punto 4");
-var nummayor =[]
+var arreglo = []
+var nombre
+var mayor
 for(var i=0; i<10; i++){
-var numeros = parseInt(prompt("por favor ingrese 10 numeros"))
-nummayor.push(numeros);
+    nombre=prompt("Registre el numero" + 1)
+    arreglo.push (nombre);
 }
-for(var i=0; i<10; i++)
-    if(arreglo[i] > nummayor){
-        nummayor = arreglo[i]
+mayor=arreglo[0]
+for(var i=0; i<10; i++){
+    
+    if (arreglo[i]>mayor){
+        mayor=arreglo[i]
+
+
+
     }
+   
+
+}
 
