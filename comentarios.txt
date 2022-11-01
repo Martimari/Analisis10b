@@ -40,3 +40,10 @@ examen while: Nota 5
 
  ciclo for: Nota 4
     * punto 4, nummayor debió ser igual al primer elemento del arreglo. Y al final no imprime el resultado
+
+
+
+********* Cuarto periodo
+
+taller 1:
+    nota: 5
