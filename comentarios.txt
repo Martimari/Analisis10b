@@ -47,3 +47,6 @@ examen while: Nota 5
 
 taller 1:
     nota: 5
+
+taller 2:
+    nota: 5
